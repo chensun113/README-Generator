@@ -34,6 +34,7 @@ SO THAT I can quickly create a professional README for a new project
   ## Video Walkrhrough
   Please click  **[Here](https://www.youtube.com/watch?v=mrbm4JvxFzM)** to view a video on the application
   https://www.youtube.com/watch?v=mrbm4JvxFzM
+ ( both links work well.)
   ## Questions
  
   If you have any questions please feel free to reach out to me at the following email: *211314nora@gmail.com*
