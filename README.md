@@ -1,6 +1,7 @@
 ## README Generate
  This is the assignment 9. This week, we create the re
 adme file from js through bash.
+<img width="578" alt="Screen Shot 2020-12-04 at 10 49 42 PM" src="https://user-images.githubusercontent.com/59670255/101233048-c5147500-3683-11eb-8cef-50a9a6e47b91.png">
   ## Description
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
